@@ -1,2 +1,2 @@
 # ETL-Minimart
-Star Schema data warehouse using pentaho integration 
+Star Schema data warehouse using pentaho data integration 
